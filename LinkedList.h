@@ -77,6 +77,7 @@ int get_data(struct node** head, int pos)
     return (int)NULL;
 }
 
+/* program functions */
 char push(struct node** head, int data)
 {
     struct node* nNode = (struct node*)malloc(sizeof(struct node));
