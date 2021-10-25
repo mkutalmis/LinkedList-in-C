@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1634569185 source:c:\users\mehmet.000\desktop\github\datastrıctures\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1634575570 source:c:\users\mehmet.000\desktop\github\datastrıctures\linkedlist\tests.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+	"LinkedList.h"
+
+1634575844 c:\users\mehmet.000\desktop\github\datastrıctures\linkedlist\linkedlist.h
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
